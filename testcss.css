@@ -1,0 +1,21 @@
+body{
+	text-align:center; 
+}
+
+#table{
+	margin:0 auto;
+	width:500px;
+	border:1px dotted red;
+}
+
+#title{
+	font-size:2rem;
+}
+.input_title{
+	width:100px;
+	display:inline-block;
+}
+
+.submit_button{
+	width:20%;
+}
